@@ -8,7 +8,10 @@
     font-family: 'JetBrains Mono' !important;
     font-size:16px !important;
  }
- 
+ body {
+    font-family: 'JetBrains Mono' !important;
+    font-size: 16px;
+}
  /*以下是代码颜色搭配，自行引入CSS*/
  
  /*代码颜色，代码框背景*/
